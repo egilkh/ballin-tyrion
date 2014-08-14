@@ -1,0 +1,23 @@
+{
+  "name": "ballin-tyrion",
+  "version": "0.0.1",
+  "description": "Extract locale data from momentjs to create key/name lists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egilkh/ballin-tyrion"
+  },
+  "keywords": [
+    "locale",
+    "momentjs"
+  ],
+  "author": "egilkh <egilkh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egilkh/ballin-tyrion/issues"
+  },
+  "homepage": "https://github.com/egilkh/ballin-tyrion"
+}
