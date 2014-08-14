@@ -1,4 +1,4 @@
 ballin-tyrion
 =============
 
-Extract locale data from moment to do things.
+Extract locale data from momentjs to create key/name lists.
