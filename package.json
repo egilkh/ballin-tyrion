@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/egilkh/ballin-tyrion/issues"
   },
-  "homepage": "https://github.com/egilkh/ballin-tyrion"
+  "homepage": "https://github.com/egilkh/ballin-tyrion",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
 }
