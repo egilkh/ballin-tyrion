@@ -1,7 +1,7 @@
 {
   "name": "ballin-tyrion",
   "version": "0.0.1",
-  "description": "Extract locale data from momentjs to create key/name lists.",
+  "description": "Extract locale data from momentjs to create key/name list.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
